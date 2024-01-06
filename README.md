@@ -24,12 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<div>
-      <img style="max-width:300px;" src="https://i.imgur.com/RWj7qYt.mp4">
-  </div>
+![Alt text](https://i.imgur.com/RWj7qYt.mp4)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Loom
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
