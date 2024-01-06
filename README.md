@@ -25,9 +25,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <div>
-    <a href="https://www.loom.com/share/376867e237a14fc6bef9dd5e14159be1">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/376867e237a14fc6bef9dd5e14159be1-with-play.gif">
-    </a>
+      <img style="max-width:300px;" src="https://i.imgur.com/RWj7qYt.mp4">
   </div>
 
 <!-- Replace this with whatever GIF tool you used! -->
