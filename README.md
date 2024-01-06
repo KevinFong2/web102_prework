@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Alt text](https://i.imgur.com/RWj7qYt.mp4)
+(https://i.imgur.com/RWj7qYt.mp4)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
